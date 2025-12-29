@@ -1,17 +1,6 @@
-# lightweight-i3-dotfiles
-<center><h1>My i3 Configuration</h1></center>
-The goal of this repository is to create tiles suitable for PCs with very low requirements with a good style.
-Configurations
+<h1 align="center">Tiny-i3wm 🐜</h1> 
 
+# 🐛 ~ Why this configuration? :
 
-Wallpapers
-
-
-
-
-Dependencies
-
-
-
-
-Keybindings
+This i3wm configuration is designed to run even on the least powerful devices.<br>
+What's more, this configuration is very lightweight and minimalistic, making it perfect for users who want a fast and efficient window manager without any unnecessary bloat.
