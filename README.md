@@ -1,5 +1,6 @@
 <h1 align="center">Tiny-i3wm 🐜</h1> 
 
+![Repo Size](https://img.shields.io/github/repo-size/think0btw/Tiny-i3wm)
 ![WM](https://img.shields.io/badge/WM-i3-blue)
 ![OS](https://img.shields.io/badge/OS-Linux-black?logo=linux)
 ![Theme](https://img.shields.io/badge/Theme-Minimal-darkgreen)
