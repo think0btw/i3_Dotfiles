@@ -5,7 +5,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/think0btw/Tiny-i3wm)
 ![GitHub last commit](https://img.shields.io/github/last-commit/think0btw/Tiny-i3wm)
-![GitHub license](https://img.shields.io/github/license/think0btw/Tiny-i3wm)
 
 <center>
 
@@ -23,7 +22,6 @@
 ![Type](https://img.shields.io/badge/Type-Dotfiles-informational)
 ![Display](https://img.shields.io/badge/Display-X11-lightgrey)
 ![Bloat](https://img.shields.io/badge/Bloat-None-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 </center>
 
 # 🐛 ~ Why this configuration? :
