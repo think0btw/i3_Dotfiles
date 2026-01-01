@@ -1,6 +1,7 @@
 <h1 align="center">Tiny-i3wm 🐜</h1> 
 
-![Repo Size](https://img.shields.io/badge/Repo%20Size-120KB-blue)
+
+<center>
 ![WM](https://img.shields.io/badge/WM-i3-blue)
 ![OS](https://img.shields.io/badge/OS-Linux-black?logo=linux)
 ![Theme](https://img.shields.io/badge/Theme-Minimal-darkgreen)
@@ -16,6 +17,7 @@
 ![Display](https://img.shields.io/badge/Display-X11-lightgrey)
 ![Bloat](https://img.shields.io/badge/Bloat-None-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+</center>
 
 # 🐛 ~ Why this configuration? :
 
