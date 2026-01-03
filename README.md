@@ -42,11 +42,13 @@ What's more, this configuration is very lightweight and minimalistic, making it 
 - LunarVim (Neovim config)
 
 ## 🚀 Install dotfiles
+
 ```bash
 git clone https://github.com/think0btw/i3_Dotfiles.git
 cd i3_Dotfiles
 chmod +x install.sh
 ./install.sh
+```
 
 ## ⌨️ Keybindings
 | Combo | Action |
