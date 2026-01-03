@@ -88,14 +88,29 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/master/utils/installer/install.sh)
 ```
+## ⚠️ Important
 
+Before installing these dotfiles, **MAKE A BACKUP** of your existing configuration.
+I am NOT responsible for any data loss or broken config.
+Use at your own risk.
 ## 🚀 Install dotfiles
+## Installation (Recommended)
+### Requirements
+- GNU Stow
+ ```
+# Arch
+sudo pacman -S stow
+```
+```
+# Debian
+sudo apt install stow
+```
 
 ```bash
 git clone https://github.com/think0btw/i3_Dotfiles.git
 cd i3_Dotfiles
-chmod +x install.sh
-./install.sh
+chmod +x install-legacy.sh
+./install-legacy.sh
 ```
 
 ## ⌨️ Keybindings
