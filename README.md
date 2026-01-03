@@ -98,8 +98,8 @@ Use at your own risk.
 ```bash
 git clone https://github.com/think0btw/i3_Dotfiles.git
 cd i3_Dotfiles
-chmod +x install-legacy.sh
-./install-legacy.sh
+chmod +x install.sh
+./install.sh
 ```
 
 ## ⌨️ Keybindings
