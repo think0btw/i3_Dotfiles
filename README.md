@@ -1,7 +1,6 @@
 <h1 align="center">Tiny-i3wm 🐧</h1> 
 
-## Preview
-
+# Preview
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d578e76-c015-4544-8033-1ba6b6697b77" width="80%">
 </p>
@@ -10,6 +9,7 @@
   <img src="https://github.com/user-attachments/assets/da478056-5c17-4035-9f67-f40ae982fbd0" width="30%">
   <img src="https://github.com/user-attachments/assets/fdf4e728-1264-4bc1-a82e-56b9621f5a11" width="30%">
 </p>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/think0btw/Tiny-i3wm)
 ![GitHub last commit](https://img.shields.io/github/last-commit/think0btw/Tiny-i3wm)
 
