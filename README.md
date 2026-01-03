@@ -40,7 +40,7 @@ What's more, this configuration is very lightweight and minimalistic, making it 
 - Cava (audio visualizer)
 - Fastfetch (system info)
 - LunarVim (Neovim config)
-- 
+ 
 ## ⌨️ Keybindings
 | Combo | Action |
 |------|--------|
@@ -54,6 +54,23 @@ What's more, this configuration is very lightweight and minimalistic, making it 
 | `Mod + G` | Toggle floating |
 | `Mod + Space` | Toggle focus mode |
 
+i3_Dotfiles/
+├── i3/
+├── polybar/
+├── kitty/
+├── rofi/
+├── picom/
+├── btop/
+│   ├── btop.conf
+│   └── themes/
+│       └── catppuccin_mocha.theme
+├── htop/
+├── cava/
+├── fastfetch/
+├── lvim/
+├── install.sh
+├── .gitignore
+└── README.md
 > ⚠️ Work in progress  
 > This dotfiles repository is still under active development.
 
