@@ -1,6 +1,6 @@
 <h1 align="center">Tiny-i3wm 🐧</h1> 
 
-# Preview
+## Preview
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d578e76-c015-4544-8033-1ba6b6697b77" width="80%">
 </p>
