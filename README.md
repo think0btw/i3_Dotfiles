@@ -59,6 +59,10 @@ sudo pacman -S --needed i3-wm polybar rofi picom kitty btop htop cava fastfetch 
 sudo apt install zsh
 chsh -s $(which zsh)
 ```
+Install Oh My Zsh:
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 ## 🚀 Install dotfiles
 
 ```bash
