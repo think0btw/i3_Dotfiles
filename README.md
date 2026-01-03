@@ -63,6 +63,24 @@ Install Oh My Zsh:
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+---
+
+## 🌙 LunarVim (lvim)
+### Requirements
+
+- neovim (>= 0.9)
+- git
+- nodejs
+- npm
+- python3
+- pip
+
+### Install LunarVim
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/master/utils/installer/install.sh)
+```
+
 ## 🚀 Install dotfiles
 
 ```bash
