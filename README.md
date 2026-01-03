@@ -45,11 +45,11 @@ What's more, this configuration is very lightweight and minimalistic, making it 
 ## 🔤 Fonts
 `JetBrainsMono Nerd Font` · `FiraCode Nerd Font` · `Font Awesome`
 ## 🐧 Install all dependencies
-# Debian
+### Debian
 ```
 sudo apt update && sudo apt install i3 polybar rofi picom kitty btop htop cava fastfetch feh xrandr brightnessctl playerctl pulseaudio git neovim
 ```
-# Arch
+### Arch
 ```
 sudo pacman -S --needed i3-wm polybar rofi picom kitty btop htop cava fastfetch feh xorg-xrandr brightnessctl playerctl pulseaudio git neovim
 ```
