@@ -1,0 +1,20 @@
+# Logs
+*.log
+**/*.log
+
+# Cache / temp
+.cache/
+cache/
+**/cache/
+*.tmp
+*.swp
+
+# State / session
+*.state
+*.session
+
+# LunarVim
+lvim/lazy-lock.json
+
+# OS / editor
+.DS_Store
