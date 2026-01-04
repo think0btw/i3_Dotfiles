@@ -16,5 +16,5 @@ cache/
 # LunarVim
 lvim/lazy-lock.json
 
-# OS / editor
+# OS
 .DS_Store
