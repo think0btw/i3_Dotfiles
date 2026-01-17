@@ -1,4 +1,4 @@
-<h1 align="center">Tiny-i3wm 🐧</h1> 
+<h1 align="center">Tiny-i3wm 🐧</h1>
 
 ## Preview
 <p align="center">
